@@ -1,5 +1,8 @@
 #!/bin/bash
 
+export OS_SERVICE_TOKEN=$ADMIN_TOKEN
+export OS_SERVICE_ENDPOINT=http://controller:35357/v2.0
+
 echo "install keystone"
 ./install-keystone.sh
 
