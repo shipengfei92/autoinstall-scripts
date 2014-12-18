@@ -1,3 +1,5 @@
+#change the passwords for your own
+
 DBPASS=root
 
 RABBIT_PASS=guest
