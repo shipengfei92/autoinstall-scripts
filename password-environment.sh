@@ -1,5 +1,7 @@
 #change the passwords for your own
 
+ADMIN_TOKEN=540dd562-86ae-11e4-bdbb-cbfd6b4aa51d
+
 DBPASS=root
 
 RABBIT_PASS=guest
