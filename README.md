@@ -7,3 +7,9 @@
 #keystone
 ##v0.5 install and config keytone
 ##v0.6 add admin and demo users and service tenant
+##v0.7 add endpoint service and verify the installation of keystone
+#glance
+##v0.8 install glance and config
+
+
+
