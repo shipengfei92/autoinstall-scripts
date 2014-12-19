@@ -11,5 +11,6 @@
 #glance
 ##v0.8 install glance and config
 ##v0.9 verify image service installation
-
-
+#nova
+##v1.0 install nova in compute node
+##v1.1 install nova-compute node from controller
