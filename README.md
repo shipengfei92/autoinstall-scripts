@@ -10,6 +10,6 @@
 ##v0.7 add endpoint service and verify the installation of keystone
 #glance
 ##v0.8 install glance and config
-
+##v0.9 verify image service installation
 
 
