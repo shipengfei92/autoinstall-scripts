@@ -16,5 +16,6 @@
 ##v1.1 install nova-compute node from controller
 #neutron
 ##v1.2 install neutron in controller node
+##v1.4 install neutron in network node
 #dashboard
 ##v1.3 install dashboard and config
