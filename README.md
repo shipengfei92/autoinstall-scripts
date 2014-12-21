@@ -14,3 +14,6 @@
 #nova
 ##v1.0 install nova in compute node
 ##v1.1 install nova-compute node from controller
+#neutron
+##v1.2 install neutron in controller node
+
